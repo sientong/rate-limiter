@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.project.RateLimiterTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.152 s - in test.project.RateLimiterTest
